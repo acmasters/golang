@@ -25,6 +25,4 @@ func main() {
 	}
 	fmt.Println(linhas)
 
-	git config --global user.email johndoe@example.com
-
 }
