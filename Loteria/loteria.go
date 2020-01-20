@@ -1,7 +1,9 @@
 package main
 
-import "fmt"
-
-func main() {
-	numeros = 
+func opcoes_jogo() {
+	num := make([]int, 61)
+	for i := range num {
+		num[i] = 1 << uint(i)
+	}
+	return i
 }
